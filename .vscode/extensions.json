@@ -1,3 +1,22 @@
 {
-  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+  "recommendations": [
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "hollowtree.vue-snippets",
+    "mikestead.dotenv",
+    "sdras.vue-vscode-snippets",
+    "streetsidesoftware.code-spell-checker",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "wix.vscode-import-cost",
+    "wscats.vue",
+    "xabikos.javascriptsnippets",
+    "yzhang.markdown-all-in-one",
+    "Wscats.vue"
+  ]
 }
